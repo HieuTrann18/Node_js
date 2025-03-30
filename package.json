@@ -1,0 +1,26 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieuTrann18/Node_js.git"
+  },
+  "author": "HieuTran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieuTrann18/Node_js/issues"
+  },
+  "homepage": "https://github.com/HieuTrann18/Node_js#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
